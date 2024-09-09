@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John Mark Corpuz
+## 👋 Hello, I’m John Mark Corpuz
 - 👀 I’m interested in Data Analysis and doing visualization using PowerBI and Tableau
 - 🌱 I’m currently learning Python Language
 - 📫 How to reach me: email:jmcorpz07@gmail.com Phone number: 09167908624
